@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="max_width">400dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="material_component_cards_left_and_right_padding">16dp</dimen>
+    <dimen name="material_component_cards_top_and_bottom_padding">16dp</dimen>
+    <dimen name="material_component_cards_padding_from_edge_of_screen_to_card">4dp</dimen>
+    <dimen name="material_component_cards_space_between_cards">4dp</dimen>
+    <dimen name="app_bar_elevation">4dp</dimen>
+    <dimen name="floating_action_button_elevation">6dp</dimen>
+    <integer name="grid_column_count">2</integer>
+
+    <dimen name="author_textview_margin">4dp</dimen>
+
+    <dimen name="material_layout_keylines_screen_edge_margin">16dp</dimen>
+    <dimen name="material_component_floating_action_button_margin">16dp</dimen>
+
+    <dimen name="material_layout_vertical_spacing_between_content_areas">8dp</dimen>
+    <dimen name="material_component_cards_primary_title_bottom_padding">16dp</dimen>
+</resources>

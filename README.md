@@ -9,7 +9,7 @@ Transformed the user experience of a news reading app using Material Design prin
   
   </br>
   
-  <img src="http://amerouane.com/wp-content/uploads/2018/04/device-2018-04-22-221423.jpg" width="500"/>
+  <img src="http://amerouane.com/wp-content/uploads/2018/04/device-2018-04-22-221423.jpg" width="700"/>
 </p>
 
 # License
